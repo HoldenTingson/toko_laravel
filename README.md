@@ -15,8 +15,9 @@
 
 ### Config File
 
-Run `php artisan key:generate` to generate app key.
+Rename or copy .env.example file to .env
 
+1. Run `php artisan key:generate` to generate app key.
 1. Set your database credentials in `.env` file
 1. Set your `APP_URL` in `.env` file.
 
